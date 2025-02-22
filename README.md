@@ -1,5 +1,5 @@
 
-Workspace: Collecting workspace informationThis project is an AI-powered code generator that allows users to input requirements and receive generated code for a complete React application. The project uses the following technologies and features:
+This project is an AI-powered code generator that allows users to input requirements and receive generated code for a complete React application. The project uses the following technologies and features:
 
 1. **React**: The front-end framework used to build the user interface.
 2. **React Router**: For handling client-side routing.
