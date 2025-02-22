@@ -1,4 +1,3 @@
-lydiacabarles23: give description of this project
 
 Workspace: Collecting workspace informationThis project is an AI-powered code generator that allows users to input requirements and receive generated code for a complete React application. The project uses the following technologies and features:
 
